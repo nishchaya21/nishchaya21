@@ -1,4 +1,12 @@
-<h1 align="center">Hello<img src="Images/wave.gif" width="30px" height="auto">!! I'm Nishchaya</h1>
+<h1 align="center">Hello<img src="Images/wave.gif" width="30px" height="auto">!! I'm Nishchaya | निश्चय | Firm Believer</h1>
+<h3> I'm a CSE STUDENT ◼ programmer ◼ innovator ◼ explorer </h3>
+<h4> ♦ Budding programmer and innovator </h4> 
+<h4> ♦️ Building the future,one code at a time</h4>
+<h4> ♦️ Love to eat ,code 👨‍💻and explore</h4>
+<h4> ♦️ Living my dream</h4>
+<h4> ♦ Venturing into novelties and endeavouring to do better in my field !!</h4>
+<h4> ♦️ Optimistic</h4>
+
 
 
 <h2 align="center"> 💻 Languages and Tools </h2>
