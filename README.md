@@ -6,7 +6,7 @@
 <h4> ♦️ Living my dream</h4>
 <h4> ♦ Venturing into novelties and endeavouring to do better in my field !!</h4>
 <h4> ♦️ Optimistic</h4>
-<h4> ♦️ You can reach me through: nischayajandyal101@gmail.com </h4>
+<h4> ♦️ You can reach me through: nishchayajandyal101@gmail.com </h4>
 
 
 
