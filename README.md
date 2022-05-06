@@ -51,12 +51,14 @@
 ## 📊 My GitHub Stats
 
 <br>
-<a href="https://github-readme-stats.vercel.app/api?username=nishchaya21&theme=radical"> 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=nishchaya21&theme=radical"></a>
-<br>
-<br>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=nishchaya21&langs_count=6&theme=tokyonight">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishchaya21&langs_count=6&theme=tokyonight"></a>
+<p align="center">
+  <a href="https://github-readme-stats.vercel.app/api?username=nishchaya21&theme=tokyonight"> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nishchaya21&theme=tokyonight"></a>
+  <br>
+  <br>
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=nishchaya21&layout=compact&theme=react">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishchaya21&layout=compact&theme=react"></a>
+</p>
 
 <br>
 <br>
