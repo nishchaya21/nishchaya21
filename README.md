@@ -1,4 +1,4 @@
-<h1 align="center">Hello<img src="Images/wave.gif" width="30px" height="auto">!! I'm Nishchaya | निश्चय | Firm Believer</h1>
+<h1 align="center">Hello<img src="Images/wave.gif" width="30px" height="30px">!! I'm Nishchaya | निश्चय | Firm Believer</h1>
 <h3> I'm a CSE STUDENT ◼ programmer ◼ innovator ◼ explorer </h3>
 <h4> ♦ Budding programmer and innovator </h4> 
 <h4> ♦️ Building the future,one code at a time</h4>
