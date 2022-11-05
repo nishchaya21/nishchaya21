@@ -13,16 +13,19 @@
 
 <h2 align="center"> 💻 Languages and Tools </h2>
 <p align="center">
-<img alt="c programming" width="42 px" height="44" src="Images/C.png">
-<img alt="c++" width="40 px" height="44" src="Images/C++.png ">
+<!-- <img alt="c programming" width="42 px" height="44" src="Images/C.png"> -->
+<img alt="c programming" width="37 px" height="42" src="https://github.com/Swap-Nova/Swap-Nova/blob/main/Images/C%20Logo.png">
+<img alt="c++" width="42 px" height="44" src="Images/C++.png ">
 <img alt="python" width="40 px" height="44" src="Images/python.png">
 <img alt="html" width="45 px" height="44" src="Images/html.png">
 <img alt="css" width="45 px" height="44" src="Images/css-3.png">
 <img alt="bootstrap" width="40 px" height="44" src="Images/bootstrap.png">
-<img alt="javascript" width="40 px" height="44" src="Images/js.png">
-<img alt="React JS" width="42 px" height="44" src="Images/react.png"> 
-<img alt="GitHub" width="40 px" height="44" src="Images/Github Icon.png">
+<img alt="git" width="40px" height="44px" src="https://github.com/Swap-Nova/Swap-Nova/blob/main/Images/Git.png">
+<!-- <img alt="javascript" width="40 px" height="44" src="Images/js.png"> -->
+<!-- <img alt="React JS" width="42 px" height="44" src="Images/react.png">  -->
+<!-- <img alt="GitHub" width="40 px" height="44" src="Images/Github Icon.png"> -->
 <img alt="Google Cloud" width="45 px" height="44" src="Images/Google Cloud.png">
+<img alt="java" width="50px" height="44px" src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png">
 </p>
 
 <br>
@@ -33,8 +36,8 @@
 <img width="42 px" height="44 px" src="Images/Linkedin Icon.png"> </a>
 <a href="https://www.instagram.com/nishchayajandyal_21/" target="_blank"> 
 <img width="42 px" height="44 px" src="Images/Instagram Icon.png"> </a> 
-<a href="https://twitter.com/nishchaya_21" target="_blank">
-<img width="42 px" height="44 px" src="Images/Twitter.png"> </a>
+<!-- <a href="https://twitter.com/nishchaya_21" target="_blank">
+<img width="42 px" height="44 px" src="Images/Twitter.png"> </a> -->
 </p>
 
 
@@ -56,8 +59,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=nishchaya21&theme=tokyonight"></a>
   <br>
   <br>
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=nishchaya21&layout=compact&theme=react">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishchaya21&layout=compact&theme=react"></a>
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=nishchaya21&layout=compact&theme=react&langs_count=8">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishchaya21&layout=compact&theme=react&langs_count=8"></a>
 </p>
 
 <br>
