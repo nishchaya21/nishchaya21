@@ -3,8 +3,8 @@
 
 <h4> 🧩 Budding programmer and innovator </h4> 
 <h4> ⚛️ Building the future, one code at a time</h4>
-<h4> 👨‍💻 Love to eat ,code and explore</h4>
-<h4> 💬 Ask me about- Java, OpenCV, ML</h4>
+<h4> 👨‍💻 Love to eat, code and explore</h4>
+<h4> 💬 Ask me about- Java, Python, Machine Learning, OpenCV</h4>
 <h4> 🥅 Venturing into novelties and endeavouring to do better in my field !!</h4>
 <!-- <h4> ♦ Optimistic</h4> -->
 
