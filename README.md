@@ -68,7 +68,7 @@
 <div align="center">
 	
 <a href="https://github.com/nishchaya21/github-readme-stats"><img alt="nishchaya21's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nishchaya21&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-<a href="https://github.com/nishchaya21/github-readme-stats"><img alt="Swap-Nova's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishchaya21&langs_count=8&count_private=false&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/nishchaya21/github-readme-stats"><img alt="nishchya21's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishchaya21&langs_count=8&count_private=false&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
 </div>
 
@@ -86,7 +86,9 @@
 <!-- -------------------------------------------------------------------------------------- -->
 
 <h3 align="left"> 🌐 Socials </h3>
+
 <a href="https://linkedin.com/in/nishchaya-jandyal" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://discord.com/users/761853939292700692" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
 
 
 <h3 align="left"> 🤍 Views & Followers </h3>
